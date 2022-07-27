@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub Account, please visit my <a href="http://mverma45.github.io/portfolio/>website</a> (Ctrl+click) to open in a new window on a linux and Windows Computer Command+Click on Mac.
+Welcome to my GitHub Account, please visit my <a href="http://mverma45.github.io/portfolio/">website</a> (Ctrl+click) to open in a new window on a linux and Windows Computer Command+Click on Mac.
 
 Here are some of the things I am doing:
 
