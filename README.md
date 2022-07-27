@@ -14,4 +14,4 @@ Here are some of the things I am doing:
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I breathe fire :fire: J/K lol.
 
-*(Ctrl+Click) to open in a new window on a linux and Windows (Command+Click) on Mac. If you just click the link it will just open in the same window.
+*(Ctrl+Click) to open in a new window on a Linux and Windows (Command+Click) on Mac. If you just click the link it will just open in the same window.
