@@ -10,7 +10,7 @@ Here are some of the things I am doing:
 - 📫 How to reach me: ... you can email me at mannyverma11@gmail.com 
 - Twitter: @MannyLovesCode
 - InstaGram: manny.thedeveloper
-- *LinkedIn: <a https://www.linkedin.com/in/manendar-verma-1910a84a/">LinkedIn</a>
+- *LinkedIn: <a href="https://www.linkedin.com/in/manendar-verma-1910a84a/">LinkedIn</a>
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I breathe fire :fire: J/K lol.
 
